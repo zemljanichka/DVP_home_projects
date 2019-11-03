@@ -1,0 +1,11 @@
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator.deps.json
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.json
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.dev.json
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator.dll
+/home/zemljanichka/github/DVP_home_projects/calculator/bin/Debug/netcoreapp3.0/calculator.pdb
+/home/zemljanichka/github/DVP_home_projects/calculator/obj/Debug/netcoreapp3.0/calculator.csprojAssemblyReference.cache
+/home/zemljanichka/github/DVP_home_projects/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfoInputs.cache
+/home/zemljanichka/github/DVP_home_projects/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfo.cs
+/home/zemljanichka/github/DVP_home_projects/calculator/obj/Debug/netcoreapp3.0/calculator.dll
+/home/zemljanichka/github/DVP_home_projects/calculator/obj/Debug/netcoreapp3.0/calculator.pdb

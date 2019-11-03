@@ -1,0 +1,11 @@
+/home/zemljanichka/github/DVP_home_projects/TURNIP/obj/Debug/netcoreapp3.0/TURNIP.csprojAssemblyReference.cache
+/home/zemljanichka/github/DVP_home_projects/TURNIP/obj/Debug/netcoreapp3.0/TURNIP.AssemblyInfoInputs.cache
+/home/zemljanichka/github/DVP_home_projects/TURNIP/obj/Debug/netcoreapp3.0/TURNIP.AssemblyInfo.cs
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP.deps.json
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP.runtimeconfig.json
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP.runtimeconfig.dev.json
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP.dll
+/home/zemljanichka/github/DVP_home_projects/TURNIP/bin/Debug/netcoreapp3.0/TURNIP.pdb
+/home/zemljanichka/github/DVP_home_projects/TURNIP/obj/Debug/netcoreapp3.0/TURNIP.dll
+/home/zemljanichka/github/DVP_home_projects/TURNIP/obj/Debug/netcoreapp3.0/TURNIP.pdb

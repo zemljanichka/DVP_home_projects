@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zemljanichka/github/DVP_home_projects/calculator/calculator.csproj": {}
+  },
+  "projects": {
+    "/home/zemljanichka/github/DVP_home_projects/calculator/calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zemljanichka/github/DVP_home_projects/calculator/calculator.csproj",
+        "projectName": "calculator",
+        "projectPath": "/home/zemljanichka/github/DVP_home_projects/calculator/calculator.csproj",
+        "packagesPath": "/home/zemljanichka/.nuget/packages/",
+        "outputPath": "/home/zemljanichka/github/DVP_home_projects/calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zemljanichka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
